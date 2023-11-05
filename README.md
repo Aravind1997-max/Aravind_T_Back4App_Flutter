@@ -2,6 +2,8 @@
 
 Flutter App with Back4App Integration
 
+To try it out on Android device, install **app_to_install.apk** available in the repo.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
