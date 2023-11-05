@@ -34,7 +34,7 @@ Step 4: Go to File -> New -> Project from version control.
 
 Step 5: Under the Version control dropdown- Select "Git".
 
-Step 6: Under the URL Tab paste the following: 
+Step 6: Under the URL Tab paste the following: https://github.com/Aravind1997-max/Aravind_T_Back4App_Flutter
 
 Step 7: Choose the directory where you want the Project files to be stored.
 
